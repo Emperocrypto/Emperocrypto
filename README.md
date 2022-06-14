@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain and mobile app development.
 - 🌱 I’m currently learning database and machine learning(AI).
 - 💞️ I’m looking to collaborate on mobile app or blockchain developement.
-- 📫 You can reach me on Skype: legacyobi@gmail.com
+- 📫 You can reach me on Skype: legacyobi[a]gmail.com
 
 <!---
 Emperocrypto/Emperocrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
